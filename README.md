@@ -291,7 +291,4 @@ There are several models we have not tried in this tutorials as they come from t
 | How to Decompose Time Series Data into Trend and Seasonality| [[5]](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
 
 
-# Contributing
-Want to see another model tested? Do you have anything to add or fix? I'll be happy to talk about it! Open an issue/PR :) 
-
 
